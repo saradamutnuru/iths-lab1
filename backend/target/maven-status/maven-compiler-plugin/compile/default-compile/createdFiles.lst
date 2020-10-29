@@ -1,0 +1,4 @@
+com\backend\demo\WebConfiguration.class
+com\backend\demo\BackendApplication.class
+com\backend\demo\Message.class
+com\backend\demo\MessageRepository.class
