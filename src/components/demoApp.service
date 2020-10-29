@@ -1,0 +1,9 @@
+[Unit]
+Description=myApp
+After=syslog.target
+
+[Service]
+ExecStart=java /opt/demoApp/deno.jar
+
+[Install]
+WantedBy=multi-user.target
